@@ -669,18 +669,18 @@ var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_)
 // EXTERNAL MODULE: external "react-static"
 var external_react_static_ = __webpack_require__(4);
 
-// EXTERNAL MODULE: /Users/rishi-raj-jain/Desktop/layer0-react-static-example/src/components/Router.js
+// EXTERNAL MODULE: /Users/rishi-raj-jain/Desktop/edgio-react-static-example/src/components/Router.js
 var Router = __webpack_require__(3);
 
-// CONCATENATED MODULE: /Users/rishi-raj-jain/Desktop/layer0-react-static-example/src/containers/Dynamic.js
+// CONCATENATED MODULE: /Users/rishi-raj-jain/Desktop/edgio-react-static-example/src/containers/Dynamic.js
 
 /* harmony default export */ var Dynamic = (function () {
   return /*#__PURE__*/external_react_default.a.createElement("div", null, "This is a dynamic page! It will not be statically exported, but is available at runtime");
 });
-// EXTERNAL MODULE: /Users/rishi-raj-jain/Desktop/layer0-react-static-example/src/app.css
+// EXTERNAL MODULE: /Users/rishi-raj-jain/Desktop/edgio-react-static-example/src/app.css
 var app = __webpack_require__(42);
 
-// CONCATENATED MODULE: /Users/rishi-raj-jain/Desktop/layer0-react-static-example/src/App.js
+// CONCATENATED MODULE: /Users/rishi-raj-jain/Desktop/edgio-react-static-example/src/App.js
 
  //
 
@@ -894,7 +894,7 @@ module.exports = require("react-dom");
 /* 12 */
 /***/ (function(module, exports) {
 
-module.exports = require("/Users/rishi-raj-jain/Desktop/layer0-react-static-example/node_modules/react-static/lib/browser");
+module.exports = require("/Users/rishi-raj-jain/Desktop/edgio-react-static-example/node_modules/react-static/lib/browser");
 
 /***/ }),
 /* 13 */
@@ -1897,7 +1897,7 @@ exports["default"] = _default;
 /* 36 */
 /***/ (function(module, exports) {
 
-module.exports = require("/Users/rishi-raj-jain/Desktop/layer0-react-static-example/node_modules/react-static/lib/browser/hooks/useStaticInfo");
+module.exports = require("/Users/rishi-raj-jain/Desktop/edgio-react-static-example/node_modules/react-static/lib/browser/hooks/useStaticInfo");
 
 /***/ }),
 /* 37 */
